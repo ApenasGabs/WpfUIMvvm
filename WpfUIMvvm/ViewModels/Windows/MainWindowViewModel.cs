@@ -28,6 +28,12 @@ namespace WpfUIMvvm.ViewModels.Windows
                 Content = "Data",
                 Icon = new SymbolIcon { Symbol = SymbolRegular.DataHistogram24 },
                 TargetPageType = typeof(Views.Pages.DataPage)
+            },
+            new NavigationViewItem()
+            {
+                Content = "Test",
+                Icon = new SymbolIcon { Symbol = SymbolRegular.Handshake16 },
+                TargetPageType = typeof(Views.Pages.TestPage)
             }
         };
 

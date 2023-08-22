@@ -56,3 +56,5 @@ C:\Users\Apena\Documents\projetos\Teste\WpfUIMvvm\WpfUIMvvm\obj\Debug\net7.0-win
 C:\Users\Apena\Documents\projetos\Teste\WpfUIMvvm\WpfUIMvvm\obj\Debug\net7.0-windows\WpfUIMvvm.pdb
 C:\Users\Apena\Documents\projetos\Teste\WpfUIMvvm\WpfUIMvvm\obj\Debug\net7.0-windows\WpfUIMvvm.genruntimeconfig.cache
 C:\Users\Apena\Documents\projetos\Teste\WpfUIMvvm\WpfUIMvvm\obj\Debug\net7.0-windows\ref\WpfUIMvvm.dll
+C:\Users\Apena\Documents\projetos\Teste\WpfUIMvvm\WpfUIMvvm\obj\Debug\net7.0-windows\Views\Pages\TestPage.g.cs
+C:\Users\Apena\Documents\projetos\Teste\WpfUIMvvm\WpfUIMvvm\obj\Debug\net7.0-windows\Views\Pages\TestPage.baml
